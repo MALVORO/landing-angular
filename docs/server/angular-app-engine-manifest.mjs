@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '.',
+  basePath: '/landing-angular',
   supportedLocales: {
   "en-US": ""
 },
