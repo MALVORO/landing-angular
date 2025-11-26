@@ -1,0 +1,2 @@
+export default `body{margin:0;font-family:system-ui;background:#020617;color:#f9fafb}.main-container{max-width:1100px;margin:0 auto}
+`;
